@@ -34,3 +34,13 @@ Luis Felipe da Silva Ramos
 # Finalidade
 
 Projeto acadêmico desenvolvido para praticar a criação de interfaces Android, organização de dados e navegação entre telas.
+
+# Capturas de tela
+
+# Lista de clubes
+
+![Tela inicial do aplicativo](tela%20inicial%20app.png)
+
+# Detalhes do clube
+
+![Detalhes do aplicativo](detalhes%20app.png)
